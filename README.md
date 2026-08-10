@@ -239,7 +239,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the main Python program:
 
@@ -301,7 +301,7 @@ Through this project, I gained practical experience with:
 
 
 
-## 🔮 Future Improvements
+## Future Improvements
 
 Possible improvements include:
 
